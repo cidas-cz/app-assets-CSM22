@@ -1,3 +1,6 @@
-# Repozitar s markdown contetem pro CSM22
+# Materialy pro aplikaci na CSM22
 
-Repozitar pro zalohovani tmp dokumentu.
+```txt
+./mardowns/*    tmp markdown files
+./images/*      images for app
+```
