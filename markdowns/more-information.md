@@ -294,9 +294,12 @@ ROSTLINNÉ MLÉKO k ceně kávy dle výběru ... + 15,- Kč
 ## SKOK do života, o.p.s.
 
 Tato společnost poskytuje v Hradci Králové a okolí sociální služby a chráněná pracovní místa lidem s mentálním postižením a duševním onemocněním tak, aby získali sebedůvěru a samostatnost. Provozujeme BISTRO u dvou přátel a chráněnou dílnu LADÍLNA.
- 
+
+![SKOK do života, o.p.s.](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/skok-do-zivota.png?raw=true)
+
 ## Menu Skok do života:
-POPCORN ... 30,-
+
+POPCORN ... 30,- Kč
 
 RAJEC JEMNĚ PERLIVÝ *(1,5l)* ... 25,- Kč
 
@@ -320,6 +323,230 @@ LÁTKOVÁ TAŠKA ... 120,- Kč
 
 POLŠTÁŘEK ... 150,- Kč
 
-LÁTKOVÝ SÁČEK ... 60/40,- Kč *(dle velikosti)*
+LÁTKOVÝ SÁČEK *(dle velikosti)* ... 60/40,- Kč
 
 BUTTON ... 30,- Kč
+
+----------------------
+
+![Paulinky](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/paulinky.png?raw=true)
+
+Tohle není obyčejný stánek s knihami!
+
+Potkáte u něj Dcery sv. Pavla alias paulínky – sestry Andreu (ČR), Annu (Slovensko) a Verenu (Německo).
+
+Každý den sestra Anna vyhlásí otázku, a když nám donesete správnou odpověď, získáte 10% slevu na vybranou knihu. U nás se slevy sčítají, můžete si tak nasbírat až čtyři správné odpovědi, tedy 40% slevu!
+
+Se sestrou Verenou si zase můžete vyrobit záložku do knížky.
+U našeho stánku naleznete zeď názorů spojené s tématem života v klášteře – první téma „vykopneme“ my, ta další nám klidně můžete přijít navrhnout vy.
+
+Sledujte profil sestry Andrey na IG (andrea_fsp) nebo FB (AndreaHyblova) anebo se rovnou stavte u stánku, ať se dozvíte, co se aktuálně děje.
+
+## Něco o nás:
+
+Dcery sv. Pavla založil v Itálii v roce 1915 bl. Jakub Alberione. Název vyjadřuje hluboký vztah s apoštolem Pavlem. Od něho čerpáme inspiraci pro celý náš životní styl: spiritualitu i apoštolát.
+
+V současné době působíme v 52 státech celého světa. Žijeme v malých i větších komunitách a podle možností té které země vedeme knihkupectví a věnujeme se hlásání evangelia prostřednictvím sdělovacích prostředků. V ČR provozujeme nakladatelství známé pod názvem Paulínky. V Praze máme též stejnojmenné knihkupectví.
+
+----------------------------
+
+
+## ALMA MATER, z. s. nábor dárců kostní dřeně
+
+***Daruj na CSM šanci na život (nejen) Vojtovi***
+
+Ve dnech 11. (12:00–20:00) a 12. 8. (8:00–20:00) bude možné se přímo na CSM zapsat do Českého registru dárců krvetvorných buněk – IKEM. 
+
+Každý rok podstoupí v České republice transplantaci kostní dřeně zhruba 270 lidí. Téměř 200 z nich je odkázáno na dobrovolné dárce. Z celkového počtu pacientů s poruchou krvetvorby však každý čtvrtý nemocný svého dárce vůbec nenajde.
+Pojďme to změnit!
+
+### Kdy se můžu zapsat?
+
+- ve čtvrtek 10. 8.: 	od 12:00–20:00 hod.
+- v pátek 11. 8.:	od 8:00–20:00 hod.
+
+### Kde se můžu zapsat?
+
+- u stánku spolku ALMA MATER, z. s. 
+
+### Kdo se může stát dárcem?
+
+- Jsi ve věku 18–40 let?
+- Vážíš více než 50 kg?
+- Neužíváš trvale medikaci? (nepočítá se antikoncepce nebo léky na sezónní alergie)
+
+*Pokud jsi na všechny otázky odpověděl ANO, pak právě Tebe hledáme!*
+
+### Jak zápis do registru probíhá?
+
+- Vyplníš dotazník ohledně svého zdravotního stavu
+- Provedeš si stěr z dutiny ústní
+- Celé to zabere cca 10 min. 
+
+### Co si mám vzít s sebou?
+
+- Občanský průkaz a kartičku zdravotní pojišťovny (musí se jednat o českou zdrav. pojišťovnu)
+
+Více informací o zápisu i darování kostní dřeně naleznete na [https://www.darujzivot.cz](https://www.darujzivot.cz), nebo na místě náboru.
+
+UDĚLEJ SI 10 MIN. ČAS A ZAPIŠ SE DO REGISTRU. DARUJ NEJEN VOJTOVI ŠANCI NA ŽIVOT…
+
+Těšíme se na vás! Spolek ALMA MATER, z. s.
+
+## O spolku ALMA MATER, z. s.
+
+Hlavní činností spolku ALMA MATER je aktivní vyhledávání vhodných dárců krvetvorných buněk a celková osvěta v oblasti dárcovství kostní dřeně.
+
+Nábor na Celostátním setkání mládeže je jednou z mnoha akcí “Na Dřeň Tour” projektu Šance na život spolku ALMA MATER.
+
+### Více info naleznete zde:
+
+- [https://www.almamater.cz](https://www.almamater.cz)
+
+- [https://www.facebook.com/almamaterbohumin](https://www.facebook.com/almamaterbohumin)
+
+--------------------
+
+# Kebab a burgr stanek
+
+## Stánek č.1.
+
+***Red Chilli Texas Burger***
+
+1. Klasik burger 120 Kč
+2. Klasik čedar burger 140 Kč
+3. Doublle cheese burger 160 Kč
+4. Texas burger 160 Kč
+5. Texas chicken burger 130 Kč
+6. Hranolky 50 Kč
+7. Chicken nuggets chips 120 Kč
+ 
+## Stánek č.2.
+
+***Kebab Istanbul***
+
+1. Dürüm kebab klasik ... 110,- Kč
+2. Dürüm kebab velký ... 130,- Kč
+3. Dürüm kebab se sýrem ... 150,- Kč
+4. Döner box malý ... 100,- Kč
+5. Döner kebab box velký ... 120,- Kč
+6. Döner talíř s hranolkami ... 180,- Kč
+7. Döner talíř se sýrem ... 170,- Kč
+8. Salát box s masem ... 120,- Kč
+9. Hranolky ... 50,- Kč
+
+----------------------
+
+# Biblion
+
+## Bible, překlad 21. století
+
+Bible21 Paperback ... 390,- Kč
+
+Bible21 ilumina *(journalingová)* ... 690,- Kč
+
+Bible21 kapesní ... 490,- Kč
+
+Bible21 kapesní, kůže ... 990,- Kč
+
+Bible21 hnědá ... 770,- Kč
+
+Bible21 tyrkysová ... 770,- Kč
+
+Bible21 černá ... 770,- Kč
+
+Bible21 XL pevné desky ... 690,- Kč
+
+Bible21 XL eko kůže ... 1980,- Kč
+
+Bible21+ DTK ... 590,- Kč
+
+Bible21 pravá kůže, luxusní ... 1990,- Kč
+ 
+## Duchovní literatura pro 21. století
+
+Debra Hirsch: Svatý sex ... 299,- Kč
+
+Parabible ... 299,- Kč
+
+Parabible audiokniha ... 299,- Kč
+
+Komiksová Hero Bible ... 390,- Kč
+
+Karel Čapek: Skoro modlitby ... 229,- Kč
+
+Ivan M. Jirous: Magorské modlitby ... 289,- Kč
+
+Jiří Langer, Jiří Orten: Modlitby českožidovské ... 329,- Kč
+
+Jay McDaniel: O Bohu a pelikánech ... 398,- Kč
+
+Jana Šrámková: Ester ... 169,- Kč
+
+N. T. Wright: Překvapivá naděje ... 359,- Kč
+
+N. T. Wright: Podstata křesťanství ... 269,- Kč
+
+N. T. Wright: Bůh v karanténě ... 179,- Kč
+
+Rob Bell: Láska vítězí ... 299,- Kč
+
+Kapesní průvodce Biblí ... 198,- Kč
+
+John Stott: Rok s Biblí ... 299,- Kč
+
+John Stott: Radikální učedník ... 269,- Kč
+
+Jan Hus: Listy z Kostnice ... 219,- Kč
+
+Martin Luther: Dopisy blízkým ... 199,- Kč
+
+Timothy Keller: Králův kříž ... 250,- Kč
+
+Timothy Keller: Naděje navzdory ... 299,- Kč
+
+Timothy Keller: Tajemství Vánoc ... 299,- Kč
+
+Ty jsi se mnou: Modlitby a texty k meditaci ... 349,- Kč
+
+-----------------------------
+
+# Mek a Číz
+
+***První food truck v Česku, který vám přiveze pravý americký Mac n´ Cheese***
+
+![Mek a Ciz](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/mek&ciz.png?raw=true)
+
+Tenhle nápad a nadšení pro podnikání vznikl při návštěvě Borough marketu v Londýně na jaře 2016.
+
+Mek a Číz je dobrota na způsob americké klasiky mac and cheese. V základu těstoviny se sýrovou omáčkou a vždycky něco navíc…voňavá vepřová žebra, hovězí ragů nebo veggie verze s pečenými cherry rajčaty a feta sýrem.
+
+Na menu taky najdete hranolky s pořádnou porcí sýrové omáčky nebo smažené sýrové krokety plněné brynzou.
+
+Hledejte červené auto s Mekem – večně vysmátým kolínkem a Čízem – tak trochu nabručeným sýrem.
+
+Tak se stavte ochutnat!
+
+Kdo jsme? Jsme food truck. Raději ale máme Mek&Číz truck.
+Náš koncept vznikl v roce 2016, když jsme se procházeli po Borough street food marketu v Londýně. Ochutnali jsme mac and cheese a rozhodli se, že tohle nás bude bavit.
+
+Jemná krémová omáčka s táhnoucím se sýrem, obaleným na těstovině, spolu s trhanými žebry pomalu pečenými v naší BBQ omáčce, posypané křupavou smaženou cibulkou, to je náš signature dish. Tahle kombinace vás mile překvapí a zkrátka si jí zamilujete.
+Co děláme? Comfort food neboli jednoduché a poctivé domácí jídlo, které vám přináší pohlazení po duši a dokáže vám vždy zlepšit náladu.
+
+Mac n´ cheese je na východním pobřeží v USA a Kanadě velmi rozšířené jídlo. V 19. století ho přivezli britští přistěhovalci a je tak oblíbené, že je považováno za národní jídlo. My vám ho přivezeme v červeném Mek&Číz trucku. V naší otevřené kuchyni můžete sledovat Vaška a zjistit jak se připravuje mac n´ cheese v sýrovém kastrolu.
+
+Pokud si myslíte, že někde Mek&Číz chybí, nebojte se nás oslovit. Jsme vstřícní a flexibilní. Rádi tak doplníme vaši oslavu, catering, akci či festival.
+
+Právě teď nás najdete brázdit Českou republiku, tak nás sledujte, třeba se objevíme i u vás.
+ 
+## Naše nabídka
+ 
+**VEPŘOVÁ ŽEBRA** – těstoviny se sýrovou **doplněné vepřovými žebry** pečené **v domácí BBQ omáčce** a posypané smaženou cibulkou 	
+
+**VEGGIE** – těstoviny se sýrovou omáčkou s **pečenými rajčaty cherry rajčaty a grilovanou paprikou s Feta sýrem** ozdobené čerstvými bylinkami
+
+**CHORRIZO** – těstoviny se sýrovou omáčkou s **orestovaným  jemným chorrizem** a navíc s parmazánovou krustou a ozdobené  pažitkou
+
+**SÝROVE NACHO´S** - nacho´s se sýrovou omáčkou s rajčatovou salsou, zakysanou smetanou a Jalapňos papričky
+
+**MEKOVY HRANOLKY** - smažené hranolky se sýrovou omáčkou **doplněné vepřovými žebry** pečené **v domácí BBQ omáčce** a posypané  pažitkou
