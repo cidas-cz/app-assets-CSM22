@@ -577,17 +577,61 @@ Stuhy “vděčnosti” pak v neděli společně odevzdáme Pánu.
 
 --------------------
 
+# GODZONE
+
+![]()
+
+Godzone je slovenský projekt, jehož hlavním cílem je evangelizace mladých lidí. Vizí tohoto projektu je přinést probuzení, povzbuzení a přinášet evangelium atraktivním, kreativním a moderním způsobem. Za předchozí roky projekt Godzone oslovil desetitisíce mladých v České i Slovenské republice a to kromě dalších aktivit také formou GODZONE TOUR, kterou pravidelně organizují.
+ 
+Pod projekt Godzone patří worshipová kapela ESPÉ, kterou tvoří skupina přátel s hlubokými vztahy, kteří milují Boha. Právě jejich vztahy vytvářejí hlubokou jednotu i během vedení chval, kdy se jejich osobní pomazání sjednocuje do jednoho hlasu uctívajícího Boha. Moderní worship je v jejich podání především modlitbou a setkáním s lidmi a Bohem.
+ 
+Součástí večerního koncertu Godzone v rámci CSM budou kromě skvělé hudby i svědectví, adorace, modlitba za vylití Ducha svatého a videomapping. Máte se na co těšit! Přijďte na Velké náměstí v pátek, 12.8.2022 ve 20:30
+
+
+
+------------------------------
+
 # KaPri
 
-Jsme hudební společenství, "never ending story", nezničitelné těleso, které žije na křesťanské hudební scéně už od roku 2006. Ale pořád se svým věkovým průměrem drží v kategorii mladých  Většinu z nás pojí společné zážitky z Centra pro mládež v Příchovicích v Jizerských horách, kde s myšlenkou vzniku sboru přišla tehdy Jitka Mudrová, dnes Rosypalová, která nás vede dodnes. A přestože jsme všichni do Příchovic jezdili, tak naším sídelním městem zůstává Praha.
+![KaPri](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/220402-KaPri%20(1%20of%201)-2.JPG?raw=true)
+
+
+Jsme hudební společenství, "never ending story", nezničitelné těleso, které žije na křesťanské hudební scéně už od roku 2006. Ale pořád se svým věkovým průměrem drží v kategorii mladých  Většinu z nás pojí společné zážitky z Centra pro mládež v Příchovicích v Jizerských horách, kde s myšlenkou vzniku sboru přišla tehdy Jitka Mudrová, dnes Rosypalová, která nás vede dodnes. A přestože jsme všichni do Příchovic jezdili, tak naším sídelím městem zůstává Praha.
 
 Za dobu existence se u nás vystřídalo mnoho zpěváků a hudebníků, téměř jsme zanikli a zase se rychle oklepali, první cédéčko jsme nahrávali v sále v Příchovicích na faře a nepříznivou akustiku tlumili hromadami matrací, hráli jsme všude, kam nás pozvali - dokonce až do Ostravy na festival Slezská lilie jsme dorazili (tichý oddíl nebyla dobrá volba), dotáhli to až k doprovázení CSM ve Žďáru nad Sázavou v roce 2012, doprovázení CSA v Třešti v roce 2014 a letos k doprovázení CSM v Hradci Králové.
 
-Trávíme spolu rádi čas, a když se zrovna nehádáme o barvě trička, akordu v mezihře nebo co si dáme k obědu, tak jsme idylické společenství, pro které je doprovázení mše svaté či duchovního programu smyslem služby hudebníků. 
+Trávíme spolu rádi čas, a když se zrovna nehádáme o barvě trička, akordu v mezihře nebo co si dáme k obědu, tak jsme idylické společenství, pro které je doprovázení mše svaté či duchovního programu smyslem služby hudebníků.
 
 # Veka
+
+![Veka](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/VeKa%20Aplikace.jpg?raw=true)
 
 Jsme společenství přibližně 30 mladých lidí a svou hudbou a zpěvem oslavujeme Boha. Často jezdíme po farnostech královéhradecké diecéze i mimo ní, kde koncertujeme a doprovázíme mše svaté. Každý rok doprovázíme diecézní setkání mládeže v Hradci Králové, kterého se účastní několik stovek mladých.
 
 VeKa je neustále se měnící uskupení, takže kromě současných členů k nám také patří i velké množství těch, kteří prošli kapelou od jejího založení v roce 2000.
 
+# Adorare
+
+![Adorare](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/Adorare-propagace5.jpg?raw=true)
+
+Jsme křesťanská hudební skupina z Valašska, která evangelizuje především skrze svoji vlastní tvorbu. Tu prezentujeme prostřednictvím koncertů a CD. Snažíme se předávat osobní svědectví naší víry pomocí hudby. Také jsme zapojeni do lidových misií a vedeme večery chval v různých farnostech naší diecéze.
+
+# SBM
+
+![SBM](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/sbmka.jpg?raw=true)
+
+SBM - Schola brněnské mládeže hraje už přes dvacet let. Skládá se z muzikantů a zpěváků, kteří jsou z Brna a okolí, v Brně pracují nebo studují, z lidí kteří mají ochotu a talent. Pořádá koncerty s chválami, doprovází liturgii po celém Česku, nejčastěji však v Brně u minoritů. SBMce velí Štěpán Policer, na tomto setkání však těleso povede Patrik Buchta. Součástí SBMky je i orchestr, nejen proto jsou všechny aranže precizně zapsány do partitury. SBMka už vydala několik alb s křesťanskou hudbou, v letošním roce se však nejvíc věnuje natáčení vánočních písní v pestrých aranžích.
+
+
+---------------
+
+
+# NoProblema
+
+![NoProblema](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/NOPROBLEMA_new.png?raw=true)
+
+> Většina našich členů se poprvé hudebně setkala na pohřbu našeho společného kamaráda a kněze otce Michala. Zde byla poskládána schola Michalových kamarádů, a pod vedením naší Lucie jsme měli možnost se s ním rozloučit, jak nejlépe jsme mohli a uměli. Náš hudební doprovod na onom pohřbu zaznamenal otec Kamil Strak ze Sekce pro mládež, a oslovil Lucii s prosbou, zda bychom nechtěli doprovázet CSA v Chotěboři. No a jasně že chtěli! Teda většina z nás.
+
+A tak jsme teda vznikli. Velké díky za tu možnost patří otci Kamilovi, ale taky tam nahoru otci Michalovi.
+
+> Jinak bych naši scholu popsala jako velmi specifický úkaz. Jak už velmi nám blízkým humorem, na který si okolí občas musí zvyknout, tak i tím jak jsme každý rozdílná osobnost, a přesto fungujeme…a někdy dokonce i velmi dobře. Snažíme se hudbu dělat trochu jinak a starým šlágrům dávat nový dech. :)
