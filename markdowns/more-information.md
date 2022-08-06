@@ -550,3 +550,44 @@ Právě teď nás najdete brázdit Českou republiku, tak nás sledujte, třeba 
 **SÝROVE NACHO´S** - nacho´s se sýrovou omáčkou s rajčatovou salsou, zakysanou smetanou a Jalapňos papričky
 
 **MEKOVY HRANOLKY** - smažené hranolky se sýrovou omáčkou **doplněné vepřovými žebry** pečené **v domácí BBQ omáčce** a posypané  pažitkou
+
+------------------------
+
+# Diskuzni skupinky
+
+Jsi to TY a taky další účastníci tohoto setkání! Každý den se nejen po katechezi, jako součást hlavního programu, sejdete na určeném místě s animátorem ve žlutém triku, a společně se budete zamýšlet nad různými tématy.
+
+Možná budeš muset vyjít ze své komfortní zóny, ale neboj, společně to zvládnete. Obohatíš sebe, druhé a navážeš nová přátelství. Mimo diskuzi se můžeš těšit i na společné aktivity.
+
+
+## K mapě skupinek:
+
+Nepamatuješ si s kým jsi ve skupince a kde má určené místo? Nevadí! Stačí si vzpomenout na číslo Tvé skupinky a najít ji na mapě.
+
+
+## Společná “aktivita” se stuhami pro celé setkání
+
+***STUHOU JSEM TĚ OPÁSAL Hrk 20,22***
+
+Za co jsi v životě vděčný? Je to nějaká konkrétní situace, zážitek nebo osoba?
+
+Na hlavním prostranství setkání (u hlavního pódia) najdeš STUHY ... jednu si vyber a napiš na ni cokoliv, za co jsi vděčný. Můžeš přijít kdykoliv během celého setkání a společně se všemi účastníky, přípravnými týmy a dalšími, kdo se na setkání jakkoli podílí, vytvoříme něco, co nám pomůže se na chvíli zastavit, zamyslet se a uvědomit si, co dobrého v životě máme. 
+
+Stuhy “vděčnosti” pak v neděli společně odevzdáme Pánu.
+
+--------------------
+
+# KaPri
+
+Jsme hudební společenství, "never ending story", nezničitelné těleso, které žije na křesťanské hudební scéně už od roku 2006. Ale pořád se svým věkovým průměrem drží v kategorii mladých  Většinu z nás pojí společné zážitky z Centra pro mládež v Příchovicích v Jizerských horách, kde s myšlenkou vzniku sboru přišla tehdy Jitka Mudrová, dnes Rosypalová, která nás vede dodnes. A přestože jsme všichni do Příchovic jezdili, tak naším sídelním městem zůstává Praha.
+
+Za dobu existence se u nás vystřídalo mnoho zpěváků a hudebníků, téměř jsme zanikli a zase se rychle oklepali, první cédéčko jsme nahrávali v sále v Příchovicích na faře a nepříznivou akustiku tlumili hromadami matrací, hráli jsme všude, kam nás pozvali - dokonce až do Ostravy na festival Slezská lilie jsme dorazili (tichý oddíl nebyla dobrá volba), dotáhli to až k doprovázení CSM ve Žďáru nad Sázavou v roce 2012, doprovázení CSA v Třešti v roce 2014 a letos k doprovázení CSM v Hradci Králové.
+
+Trávíme spolu rádi čas, a když se zrovna nehádáme o barvě trička, akordu v mezihře nebo co si dáme k obědu, tak jsme idylické společenství, pro které je doprovázení mše svaté či duchovního programu smyslem služby hudebníků. 
+
+# Veka
+
+Jsme společenství přibližně 30 mladých lidí a svou hudbou a zpěvem oslavujeme Boha. Často jezdíme po farnostech královéhradecké diecéze i mimo ní, kde koncertujeme a doprovázíme mše svaté. Každý rok doprovázíme diecézní setkání mládeže v Hradci Králové, kterého se účastní několik stovek mladých.
+
+VeKa je neustále se měnící uskupení, takže kromě současných členů k nám také patří i velké množství těch, kteří prošli kapelou od jejího založení v roce 2000.
+
