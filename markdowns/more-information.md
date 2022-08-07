@@ -166,7 +166,8 @@ Tým přímluvné modlitby, je zde pro službu všem, co přijeli na setkání, 
 ---
 
 ## Menu Kolping:
-### Teplé nápoje 
+
+### Teplé nápoje
 
 Espresso ... 40,- Kč
 
@@ -178,8 +179,8 @@ Cafe Latte ... 55,- Kč
 
 Flat white ... 60,- Kč
 
-Čaj Sonnentor *(černý, zelený, ovocný, bylinný)* ... 30,- Kč
- 
+Čaj Sonnentor _(černý, zelený, ovocný, bylinný)_ ... 30,- Kč
+
 ### Studené nápoje
 
 Espresso na ledu ... 40,- Kč
@@ -192,22 +193,22 @@ Cold brew ... 60,- Kč
 
 Alternativní mléko do kávy ... 10/15,- Kč
 
-Domácí limonáda *(0,4l)* ... 35,- Kč
+Domácí limonáda _(0,4l)_ ... 35,- Kč
 
-------------------
+---
 
 # Bosco point
- 
+
 ## Menu Bosco point:
 
-Točená limonáda *(0,5l)* ... 25,- Kč
+Točená limonáda _(0,5l)_ ... 25,- Kč
 
 Nanuky v ceně ... 20,- 25,- 30,- 35,- Kč
- 
+
 Brambůrky ... 25,- Kč
 
 Cibulové kroužky ... 25,- Kč
- 
+
 ## Menu CSM stánek:
 
 Pivo Prorok (Neratov) 10°, 0,5l ... 30,- Kč
@@ -228,22 +229,23 @@ Párek v rohlíku ... 15,- Kč
 
 Pizza ... dle výběru
 
----------------------
+---
 
 # Kafekára
 
 ## Menu Kafekárna:
+
 ESPRESSO 100% Arabica Kafekára ... 45,- Kč
 
 DOUBLE ESPRESSO 100% Arabica Kafekára, dvojitá dávka kávy ... 70,- Kč
 
-OD ŽIDA  se zázvorem ... 45,- Kč
+OD ŽIDA se zázvorem ... 45,- Kč
 
 INDICKÁ s kardamonem ... 45,- Kč
 
 AFRICKÁ se sypaným kakaem a šlehačkou ... 55,- Kč
 
-BABIČČINA  s vaječným likérem a šlehačkou ... 65,- Kč
+BABIČČINA s vaječným likérem a šlehačkou ... 65,- Kč
 
 AZTÉCKÁ s chilli, čokoládou a šlehačkou ... 70,- Kč
 
@@ -259,15 +261,15 @@ MOUŘENÍN s čokoládou a šlehačkou ... 60,- Kč
 
 OD JEŽIBABY s perníkovým kořením a mlékem ... 50,- Kč
 
-LEDOVÁ  KÁVA na ledu s mlékem a šlehačkou ... 65,- Kč
+LEDOVÁ KÁVA na ledu s mlékem a šlehačkou ... 65,- Kč
 
-ESPRESSO TONIC led, tonic, citronová šťáva a espresso *(0,3 l)* ... 70,- Kč
+ESPRESSO TONIC led, tonic, citronová šťáva a espresso _(0,3 l)_ ... 70,- Kč
 
 VČELAŘSKÁ s medem a šlehačkou ... 60,- Kč
 
 KÝBL KÁVY double espresso, hodně vody ... 75,- Kč
 
-BEZ  KOFEINU ... 45,- Kč
+BEZ KOFEINU ... 45,- Kč
 
 TUREK ... 45,- Kč
 
@@ -275,13 +277,13 @@ HORKÁ ČOKOLÁDA se šlehačkou ... 55,- Kč
 
 LEDOVÁ ČOKOLÁDA se šlehačkou ... 60,- Kč
 
-CHALOUPKA  šlehačka, perníkové koření, čokoláda ... 55,- Kč
+CHALOUPKA šlehačka, perníkové koření, čokoláda ... 55,- Kč
 
 OVOCNÁ LIMONÁDA dle nabídky s ledem ... 45,- Kč
 
-LEDOVÝ MAČO mletý zelený čaj Matcha *(0,3l)* ... 60,- Kč
+LEDOVÝ MAČO mletý zelený čaj Matcha _(0,3l)_ ... 60,- Kč
 
-ČAJ černý, zelený, ovocný, mátový, bylinný *(0,4l)* ... 50,- Kč
+ČAJ černý, zelený, ovocný, mátový, bylinný _(0,4l)_ ... 50,- Kč
 
 MLÉKO porce ... 5,- Kč
 
@@ -289,7 +291,7 @@ MLÉKO porce ... 5,- Kč
 
 ROSTLINNÉ MLÉKO k ceně kávy dle výběru ... + 15,- Kč
 
---------------------------
+---
 
 ## SKOK do života, o.p.s.
 
@@ -301,17 +303,17 @@ Tato společnost poskytuje v Hradci Králové a okolí sociální služby a chr�
 
 POPCORN ... 30,- Kč
 
-RAJEC JEMNĚ PERLIVÝ *(1,5l)* ... 25,- Kč
+RAJEC JEMNĚ PERLIVÝ _(1,5l)_ ... 25,- Kč
 
-RAJEC NEPERLIVÝ *(1,5l)* ... 25,- Kč
+RAJEC NEPERLIVÝ _(1,5l)_ ... 25,- Kč
 
-DOBRÁ VODA NEPERL. *(0,5l)* ... 20,- Kč
+DOBRÁ VODA NEPERL. _(0,5l)_ ... 20,- Kč
 
 DOBRÁ VODA JEMNĚ PERL. ... 20,- Kč
 
-RAJEC OCHUCENÝ *(0,75l)* ... 20,- Kč
+RAJEC OCHUCENÝ _(0,75l)_ ... 20,- Kč
 
-MATTONI OCHUCENÁ *(1,5l)* ... 28,- Kč
+MATTONI OCHUCENÁ _(1,5l)_ ... 28,- Kč
 
 KOŠÍČEK SLANÁ NÁPLŇ ... 25,- Kč
 
@@ -323,11 +325,11 @@ LÁTKOVÁ TAŠKA ... 120,- Kč
 
 POLŠTÁŘEK ... 150,- Kč
 
-LÁTKOVÝ SÁČEK *(dle velikosti)* ... 60/40,- Kč
+LÁTKOVÝ SÁČEK _(dle velikosti)_ ... 60/40,- Kč
 
 BUTTON ... 30,- Kč
 
-----------------------
+---
 
 ![Paulinky](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/paulinky.png?raw=true)
 
@@ -348,26 +350,25 @@ Dcery sv. Pavla založil v Itálii v roce 1915 bl. Jakub Alberione. Název vyjad
 
 V současné době působíme v 52 státech celého světa. Žijeme v malých i větších komunitách a podle možností té které země vedeme knihkupectví a věnujeme se hlásání evangelia prostřednictvím sdělovacích prostředků. V ČR provozujeme nakladatelství známé pod názvem Paulínky. V Praze máme též stejnojmenné knihkupectví.
 
-----------------------------
-
+---
 
 ## ALMA MATER, z. s. nábor dárců kostní dřeně
 
-***Daruj na CSM šanci na život (nejen) Vojtovi***
+**_Daruj na CSM šanci na život (nejen) Vojtovi_**
 
-Ve dnech 11. (12:00–20:00) a 12. 8. (8:00–20:00) bude možné se přímo na CSM zapsat do Českého registru dárců krvetvorných buněk – IKEM. 
+Ve dnech 11. (12:00–20:00) a 12. 8. (8:00–20:00) bude možné se přímo na CSM zapsat do Českého registru dárců krvetvorných buněk – IKEM.
 
 Každý rok podstoupí v České republice transplantaci kostní dřeně zhruba 270 lidí. Téměř 200 z nich je odkázáno na dobrovolné dárce. Z celkového počtu pacientů s poruchou krvetvorby však každý čtvrtý nemocný svého dárce vůbec nenajde.
 Pojďme to změnit!
 
 ### Kdy se můžu zapsat?
 
-- ve čtvrtek 10. 8.: 	od 12:00–20:00 hod.
-- v pátek 11. 8.:	od 8:00–20:00 hod.
+- ve čtvrtek 10. 8.: od 12:00–20:00 hod.
+- v pátek 11. 8.: od 8:00–20:00 hod.
 
 ### Kde se můžu zapsat?
 
-- u stánku spolku ALMA MATER, z. s. 
+- u stánku spolku ALMA MATER, z. s.
 
 ### Kdo se může stát dárcem?
 
@@ -375,13 +376,13 @@ Pojďme to změnit!
 - Vážíš více než 50 kg?
 - Neužíváš trvale medikaci? (nepočítá se antikoncepce nebo léky na sezónní alergie)
 
-*Pokud jsi na všechny otázky odpověděl ANO, pak právě Tebe hledáme!*
+_Pokud jsi na všechny otázky odpověděl ANO, pak právě Tebe hledáme!_
 
 ### Jak zápis do registru probíhá?
 
 - Vyplníš dotazník ohledně svého zdravotního stavu
 - Provedeš si stěr z dutiny ústní
-- Celé to zabere cca 10 min. 
+- Celé to zabere cca 10 min.
 
 ### Co si mám vzít s sebou?
 
@@ -405,13 +406,13 @@ Nábor na Celostátním setkání mládeže je jednou z mnoha akcí “Na Dřeň
 
 - [https://www.facebook.com/almamaterbohumin](https://www.facebook.com/almamaterbohumin)
 
---------------------
+---
 
 # Kebab a burgr stanek
 
 ## Stánek č.1.
 
-***Red Chilli Texas Burger***
+**_Red Chilli Texas Burger_**
 
 1. Klasik burger 120 Kč
 2. Klasik čedar burger 140 Kč
@@ -420,10 +421,10 @@ Nábor na Celostátním setkání mládeže je jednou z mnoha akcí “Na Dřeň
 5. Texas chicken burger 130 Kč
 6. Hranolky 50 Kč
 7. Chicken nuggets chips 120 Kč
- 
+
 ## Stánek č.2.
 
-***Kebab Istanbul***
+**_Kebab Istanbul_**
 
 1. Dürüm kebab klasik ... 110,- Kč
 2. Dürüm kebab velký ... 130,- Kč
@@ -435,7 +436,7 @@ Nábor na Celostátním setkání mládeže je jednou z mnoha akcí “Na Dřeň
 8. Salát box s masem ... 120,- Kč
 9. Hranolky ... 50,- Kč
 
-----------------------
+---
 
 # Biblion
 
@@ -443,7 +444,7 @@ Nábor na Celostátním setkání mládeže je jednou z mnoha akcí “Na Dřeň
 
 Bible21 Paperback ... 390,- Kč
 
-Bible21 ilumina *(journalingová)* ... 690,- Kč
+Bible21 ilumina _(journalingová)_ ... 690,- Kč
 
 Bible21 kapesní ... 490,- Kč
 
@@ -462,7 +463,7 @@ Bible21 XL eko kůže ... 1980,- Kč
 Bible21+ DTK ... 590,- Kč
 
 Bible21 pravá kůže, luxusní ... 1990,- Kč
- 
+
 ## Duchovní literatura pro 21. století
 
 Debra Hirsch: Svatý sex ... 299,- Kč
@@ -509,11 +510,11 @@ Timothy Keller: Tajemství Vánoc ... 299,- Kč
 
 Ty jsi se mnou: Modlitby a texty k meditaci ... 349,- Kč
 
------------------------------
+---
 
 # Mek a Číz
 
-***První food truck v Česku, který vám přiveze pravý americký Mac n´ Cheese***
+**_První food truck v Česku, který vám přiveze pravý americký Mac n´ Cheese_**
 
 ![Mek a Ciz](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/mek&ciz.png?raw=true)
 
@@ -538,20 +539,20 @@ Mac n´ cheese je na východním pobřeží v USA a Kanadě velmi rozšířené 
 Pokud si myslíte, že někde Mek&Číz chybí, nebojte se nás oslovit. Jsme vstřícní a flexibilní. Rádi tak doplníme vaši oslavu, catering, akci či festival.
 
 Právě teď nás najdete brázdit Českou republiku, tak nás sledujte, třeba se objevíme i u vás.
- 
+
 ## Naše nabídka
- 
-**VEPŘOVÁ ŽEBRA** – těstoviny se sýrovou **doplněné vepřovými žebry** pečené **v domácí BBQ omáčce** a posypané smaženou cibulkou 	
+
+**VEPŘOVÁ ŽEBRA** – těstoviny se sýrovou **doplněné vepřovými žebry** pečené **v domácí BBQ omáčce** a posypané smaženou cibulkou
 
 **VEGGIE** – těstoviny se sýrovou omáčkou s **pečenými rajčaty cherry rajčaty a grilovanou paprikou s Feta sýrem** ozdobené čerstvými bylinkami
 
-**CHORRIZO** – těstoviny se sýrovou omáčkou s **orestovaným  jemným chorrizem** a navíc s parmazánovou krustou a ozdobené  pažitkou
+**CHORRIZO** – těstoviny se sýrovou omáčkou s **orestovaným jemným chorrizem** a navíc s parmazánovou krustou a ozdobené pažitkou
 
 **SÝROVE NACHO´S** - nacho´s se sýrovou omáčkou s rajčatovou salsou, zakysanou smetanou a Jalapňos papričky
 
-**MEKOVY HRANOLKY** - smažené hranolky se sýrovou omáčkou **doplněné vepřovými žebry** pečené **v domácí BBQ omáčce** a posypané  pažitkou
+**MEKOVY HRANOLKY** - smažené hranolky se sýrovou omáčkou **doplněné vepřovými žebry** pečené **v domácí BBQ omáčce** a posypané pažitkou
 
-------------------------
+---
 
 # Diskuzni skupinky
 
@@ -559,44 +560,39 @@ Jsi to TY a taky další účastníci tohoto setkání! Každý den se nejen po 
 
 Možná budeš muset vyjít ze své komfortní zóny, ale neboj, společně to zvládnete. Obohatíš sebe, druhé a navážeš nová přátelství. Mimo diskuzi se můžeš těšit i na společné aktivity.
 
-
 ## K mapě skupinek:
 
 Nepamatuješ si s kým jsi ve skupince a kde má určené místo? Nevadí! Stačí si vzpomenout na číslo Tvé skupinky a najít ji na mapě.
 
-
 ## Společná “aktivita” se stuhami pro celé setkání
 
-***STUHOU JSEM TĚ OPÁSAL Hrk 20,22***
+**_STUHOU JSEM TĚ OPÁSAL Hrk 20,22_**
 
 Za co jsi v životě vděčný? Je to nějaká konkrétní situace, zážitek nebo osoba?
 
-Na hlavním prostranství setkání (u hlavního pódia) najdeš STUHY ... jednu si vyber a napiš na ni cokoliv, za co jsi vděčný. Můžeš přijít kdykoliv během celého setkání a společně se všemi účastníky, přípravnými týmy a dalšími, kdo se na setkání jakkoli podílí, vytvoříme něco, co nám pomůže se na chvíli zastavit, zamyslet se a uvědomit si, co dobrého v životě máme. 
+Na hlavním prostranství setkání (u hlavního pódia) najdeš STUHY ... jednu si vyber a napiš na ni cokoliv, za co jsi vděčný. Můžeš přijít kdykoliv během celého setkání a společně se všemi účastníky, přípravnými týmy a dalšími, kdo se na setkání jakkoli podílí, vytvoříme něco, co nám pomůže se na chvíli zastavit, zamyslet se a uvědomit si, co dobrého v životě máme.
 
 Stuhy “vděčnosti” pak v neděli společně odevzdáme Pánu.
 
---------------------
+---
 
 # GODZONE
 
 ![]()
 
 Godzone je slovenský projekt, jehož hlavním cílem je evangelizace mladých lidí. Vizí tohoto projektu je přinést probuzení, povzbuzení a přinášet evangelium atraktivním, kreativním a moderním způsobem. Za předchozí roky projekt Godzone oslovil desetitisíce mladých v České i Slovenské republice a to kromě dalších aktivit také formou GODZONE TOUR, kterou pravidelně organizují.
- 
+
 Pod projekt Godzone patří worshipová kapela ESPÉ, kterou tvoří skupina přátel s hlubokými vztahy, kteří milují Boha. Právě jejich vztahy vytvářejí hlubokou jednotu i během vedení chval, kdy se jejich osobní pomazání sjednocuje do jednoho hlasu uctívajícího Boha. Moderní worship je v jejich podání především modlitbou a setkáním s lidmi a Bohem.
- 
+
 Součástí večerního koncertu Godzone v rámci CSM budou kromě skvělé hudby i svědectví, adorace, modlitba za vylití Ducha svatého a videomapping. Máte se na co těšit! Přijďte na Velké náměstí v pátek, 12.8.2022 ve 20:30
 
-
-
-------------------------------
+---
 
 # KaPri
 
-![KaPri](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/220402-KaPri%20(1%20of%201)-2.JPG?raw=true)
+![KaPri](<https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/220402-KaPri%20(1%20of%201)-2.JPG?raw=true>)
 
-
-Jsme hudební společenství, "never ending story", nezničitelné těleso, které žije na křesťanské hudební scéně už od roku 2006. Ale pořád se svým věkovým průměrem drží v kategorii mladých  Většinu z nás pojí společné zážitky z Centra pro mládež v Příchovicích v Jizerských horách, kde s myšlenkou vzniku sboru přišla tehdy Jitka Mudrová, dnes Rosypalová, která nás vede dodnes. A přestože jsme všichni do Příchovic jezdili, tak naším sídelím městem zůstává Praha.
+Jsme hudební společenství, "never ending story", nezničitelné těleso, které žije na křesťanské hudební scéně už od roku 2006. Ale pořád se svým věkovým průměrem drží v kategorii mladých Většinu z nás pojí společné zážitky z Centra pro mládež v Příchovicích v Jizerských horách, kde s myšlenkou vzniku sboru přišla tehdy Jitka Mudrová, dnes Rosypalová, která nás vede dodnes. A přestože jsme všichni do Příchovic jezdili, tak naším sídelím městem zůstává Praha.
 
 Za dobu existence se u nás vystřídalo mnoho zpěváků a hudebníků, téměř jsme zanikli a zase se rychle oklepali, první cédéčko jsme nahrávali v sále v Příchovicích na faře a nepříznivou akustiku tlumili hromadami matrací, hráli jsme všude, kam nás pozvali - dokonce až do Ostravy na festival Slezská lilie jsme dorazili (tichý oddíl nebyla dobrá volba), dotáhli to až k doprovázení CSM ve Žďáru nad Sázavou v roce 2012, doprovázení CSA v Třešti v roce 2014 a letos k doprovázení CSM v Hradci Králové.
 
@@ -622,9 +618,7 @@ Jsme křesťanská hudební skupina z Valašska, která evangelizuje předevší
 
 SBM - Schola brněnské mládeže hraje už přes dvacet let. Skládá se z muzikantů a zpěváků, kteří jsou z Brna a okolí, v Brně pracují nebo studují, z lidí kteří mají ochotu a talent. Pořádá koncerty s chválami, doprovází liturgii po celém Česku, nejčastěji však v Brně u minoritů. SBMce velí Štěpán Policer, na tomto setkání však těleso povede Patrik Buchta. Součástí SBMky je i orchestr, nejen proto jsou všechny aranže precizně zapsány do partitury. SBMka už vydala několik alb s křesťanskou hudbou, v letošním roce se však nejvíc věnuje natáčení vánočních písní v pestrých aranžích.
 
-
----------------
-
+---
 
 # NoProblema
 
@@ -635,3 +629,80 @@ SBM - Schola brněnské mládeže hraje už přes dvacet let. Skládá se z muzi
 A tak jsme teda vznikli. Velké díky za tu možnost patří otci Kamilovi, ale taky tam nahoru otci Michalovi.
 
 > Jinak bych naši scholu popsala jako velmi specifický úkaz. Jak už velmi nám blízkým humorem, na který si okolí občas musí zvyknout, tak i tím jak jsme každý rozdílná osobnost, a přesto fungujeme…a někdy dokonce i velmi dobře. Snažíme se hudbu dělat trochu jinak a starým šlágrům dávat nový dech. :)
+
+# Michal Horak
+
+![Michal Horak](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/michalhoraktisk-11.JPG?raw=true)
+
+Ahoj, já jsem Michal a jsem písničkář.
+
+Je mi 24 let, ačkoliv prý vypadám na padesát. Píšu písničky o věcech, co mě baví, a doprovázím se u toho nejčastěji na klavír nebo kytaru. Lítám z žánru do žánru, ale myslím, že to je všechno hlavně folk. V nejlepších letech jsem vyhrál několik talentových soutěží, (což jsem završil výhrou Objevu roku v anketě Zlatý slavík 2021 a nominaci na Cenu Anděl) a od třinácti let koncertuju všude možně. Taky jsem vydal několik singlů, jejichž počet vjůs se na YouTube pohybuje v řádcích statisíců až miliónů, z čehož mám velkou radost. Na podzim roku 2019 jsem si vydal svoje první album s prozíravým názvem „Michalovo cédéčko“ a na podzim roku 2021 svoje druhé CD jménem „Michalbum“, což dokazuje, že mi při vymýšlení názvů alb nedochází fantazie. A jinak pilně studuju pedagogický obor na Karlově Univerzitě. Tak se třeba stavte na koncert nebo si něco poslechněte, budu rád!
+
+Michala si můžeš přijít poslechnout ve středu 10. 8. od 15:00 do Žižkových sadů.
+
+# ALIVE
+
+![ALIVE](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/ALIVE-photo-1%20(1).jpg?raw=true)
+
+ALIVE je česká worshipová kapela, která svou tvorbou touží přinášet novost do České chvály, ať už autorskými písněmi, nebo vlastním pojetím ostatních chválových písní. Toužíme, aby naše chvála oslavovala to, že Bůh je živý.
+
+ALIVE vystoupí ve středu 10. 8. v 16:30 v Jiráskových sadech.
+
+# Cimbalka
+
+![cimbalka](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/j%C3%A1noch.jpg?raw=true)
+
+Jsme cimbálová muzika z Brna vycházející z tradičních folklorních písní Moravy a Slovenska, které rádi hrajeme na akcích veřejných, tak i soukromých :)
+
+CM Jánoch vystoupí ve středu 10. 8. od 18 do 20 hod v baru.
+
+# Petr Spacek
+
+![Petr Spacek](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/peta%20fotka%2011%20(1).jpg?raw=true)
+
+Petr Špaček, nadaný violoncellista i skvělý bavič, se svojí kapelou míří na CSM! Uslyšíte písně worshipové i populární, jako jsou například Shallow, Build My Life, Viva La Vida, Bohemian Rhapsody nebo Modlitba z Anděl Páně. Petra Špačka můžete znát z kapely Prague Cello Quartet nebo z několika ročníků Godzone tour. Na cello hraje od svých šesti let, vystudoval jednu z nejprestižnějších amerických hudebních univerzit – the New England Conservatory. V září odstartoval sólovou dráhu vyprodaným Rudolfinem.
+
+Jeho vystoupení se uskuteční ve čtvrtek 11. 8. v 15:00 v katedrále sv. Ducha.
+
+# TOW MEOT
+
+![Tow MEot](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/1_1%20.png?raw=true)
+
+Si veľmi dobrý! My to o tebe vieme. No veríš tomu aj ty? Náš projekt nesie názov TOW MEOT, čo prekladáme z hebrejčiny ako “veľmi dobrý”. Aktuálne sú členmi 4ia kresťanský raperi, Augustín, dawidd, MT a Dafčo, ktorí jedinečnosťou svojich životných príbehov prinášajú na pódium texty plné svedectiev, myšlienky na zamyslenie, ale aj slová povzbudenia. V neposlednom rade sú tu naši podporovatelia a ľudia z produkcie vďaka, ktorým fungujeme. Rap je jedným z najpopulárnejších žánrov a práve to vnímame ako príležitosť osláviť Boha. Pridáš sa?
+
+3 slová – SLOVO-RAP-MISIE
+
+Přidat se můžeš ve čtvrtek od 16:30 v Žižkových sadech.
+
+# Newman (Matěj Novák)
+
+![Newman](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/newman.jpg?raw=true)
+
+Aktuálně mi je 22 a DJingu jsem se začal věnovat na začátku roku 2020, od té doby jsem odehrál na několika akcích v klubech v Praze, ale dokonce i na svatbě či boat party. Nejraději hraju progressive a future house, nicméně se nebráním žádnému stylu. V poslední době mě také baví hrát deep house, house, tech house ale třeba i future rave. Hraní se však nevěnuji ve velké míře, spíš ve formě volnočasové zábavy.
+
+Newmana budeme moct slyšet ve čtvrtek 11. 8. od 18 do 20 hod v baru.
+
+# Lidovka
+
+![lidovka](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/DSC1600-new-1.jpg?raw=true)
+
+Jsme mladá folklorní muzika, která je složena z nadšených muzikantů působících v Brně. Hrajeme převážně moravský folklor z oblasti Dolňácka, Horňácka a Valašska, ale často také zabrousíme dále na Slovensko, do Maďarska, či krajin za velkou louží.
+
+Abychom objasnili název – ještě jako mladší jsme při akcích starších muzik stáli za oponou a zkoušeli hrát se zkušenými muzikanty, kteří stáli na podiu. Proto jsme si takto recesisticky začali říkat, a přesto, že dnes už na podiích stojíme my sami, nám tento název zůstal
+
+„Lidovky“ na CSM zazní v sobotu 13. 8. v 16:30 v Žižkových sadech.
+
+# Alfa Stanberg
+
+![Alfa Stanberg](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/Alfa%20%C5%A0tramberk%20-%20fotografie.jpg?raw=true)
+
+Alfa Štramberk je společenství mladých zpěváků a hudebníků vytvořené ze Scholy Štramberk a předních hráčů orchestru Nota Kopřivnice. Název skupiny vznikl po prožití Kurzů Alfa pro mládež, při kterých se upevnily mezi všemi účinkujícími vzájemné vztahy. Celkem 40 mladých umělců si pro letošní rok připravilo hudebně-duchovní pásmo o blahoslaveném Carlu Acutisovi umocněné prezentací fotografií z jeho života. Koncert pojmenovaný „Ajťák Boží“ předvedou k oslavě tohoto světce u jeho ostatků vystavených během setkání v kostele Nanebevzetí Panny Marie v sobotu 13. 8. od 16:30.
+
+# YesBrothers
+
+![YesBrothers](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/YesBrothers.jpg?raw=true)
+
+Jsme dva bráchové, kteří mají popovou kapelu. Založili jsme ji na začátku roku 2019, a jednou bychom chtěli vyprodat O2 Arénu! Zní to šíleně... my víme! Sleduj naši cestu za splněným snem!
+
+---------------------------
+
