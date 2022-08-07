@@ -911,3 +911,7 @@ Mimo zpovědi, můžeš také využít nabídky celodenní adorace v kapli svat�
 
 ---
 
+# Půjčovna vybavení
+
+
+Od **středy do pátka** si bude možné na Centrální recepci od 7:00 do 19:00 vypůjčit vybavní.
