@@ -642,7 +642,7 @@ Michala si můžeš přijít poslechnout ve středu 10. 8. od 15:00 do Žižkov�
 
 # ALIVE
 
-![ALIVE](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/ALIVE-photo-1%20(1).jpg?raw=true)
+![ALIVE](<https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/ALIVE-photo-1%20(1).jpg?raw=true>)
 
 ALIVE je česká worshipová kapela, která svou tvorbou touží přinášet novost do České chvály, ať už autorskými písněmi, nebo vlastním pojetím ostatních chválových písní. Toužíme, aby naše chvála oslavovala to, že Bůh je živý.
 
@@ -658,7 +658,7 @@ CM Jánoch vystoupí ve středu 10. 8. od 18 do 20 hod v baru.
 
 # Petr Spacek
 
-![Petr Spacek](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/peta%20fotka%2011%20(1).jpg?raw=true)
+![Petr Spacek](<https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/peta%20fotka%2011%20(1).jpg?raw=true>)
 
 Petr Špaček, nadaný violoncellista i skvělý bavič, se svojí kapelou míří na CSM! Uslyšíte písně worshipové i populární, jako jsou například Shallow, Build My Life, Viva La Vida, Bohemian Rhapsody nebo Modlitba z Anděl Páně. Petra Špačka můžete znát z kapely Prague Cello Quartet nebo z několika ročníků Godzone tour. Na cello hraje od svých šesti let, vystudoval jednu z nejprestižnějších amerických hudebních univerzit – the New England Conservatory. V září odstartoval sólovou dráhu vyprodaným Rudolfinem.
 
@@ -704,5 +704,210 @@ Alfa Štramberk je společenství mladých zpěváků a hudebníků vytvořené 
 
 Jsme dva bráchové, kteří mají popovou kapelu. Založili jsme ji na začátku roku 2019, a jednou bychom chtěli vyprodat O2 Arénu! Zní to šíleně... my víme! Sleduj naši cestu za splněným snem!
 
----------------------------
+---
+
+# MERCH
+
+![Batůžek – Extroverťák](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/Bat%C5%AF%C5%BEek%20-%20Extrover%C5%A5%C3%A1k.png?raw=true)
+
+Exkluzivně! 100% bavlna pro citlivý chábry. Extrovertní batůžek pro barevnou motivaci Tvého dne. A hlavně tě bude motivovat v Tvém strastiplném životě! Nápis Vstaň (Sk 26,16) je opravdu povzbuzující.
+
+Taky Vás milujeme.
+
+---
+
+![Batůžek – Introverťák](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/Bat%C5%AF%C5%BEek%20-%20Introver%C5%A5%C3%A1k.png?raw=true)
+
+Introvertní batůžek pro decentní upozornění na to, že je na světě hezky a měl bys něco dělat. Motivace ve Tvém strastiplném životě! Nápis Vstaň (Sk 26,16) je opravdu povzbuzující. 100% bavlna pro citlivý chábry a taky panenské dcery našeho Krále.
+
+Taky Vás milujeme.
+
+---
+
+![Taška – Extroverťačka](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/Ta%C5%A1ka%20-%20Extrover%C5%A5a%C4%8Dka.png?raw=true)
+
+Extroverťačka pro to, abys měl kde nosit svoje těžký věci, které v pozemském životě potřebuješ. Nápis Vstaň (Sk 26,16) je opravdu povzbuzující. 100% bavlna pro naprosto dokonalý styk s Tvojí pokožkou.
+
+> "Ať královští sluhové přinesou roucho z jemné látky, jaké nosí král, a přivedou koně, na kterém jezdí král." (Ester, 6,8)
+
+Taky Vás milujeme.
+
+---
+
+![Taška – Introverťačka](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/Ta%C5%A1ka%20-%20Introver%C5%A5a%C4%8Dka.png?raw=true)
+
+Introverťačka pro to, abys měl, kde nosit svoje těžký věci, které v pozemském životě potřebuješ. Nápis Vstaň (Sk 26,16) je opravdu povzbuzující. 100% bavlna pro naprosto dokonalý styk s Tvojí pokožkou.
+
+> "Ať královští sluhové přinesou roucho z jemné látky, jaké nosí král, a přivedou koně, na kterém jezdí král." (Ester, 6,8)
+
+Taky Vás milujeme.
+
+
+---
+
+![Flexis – Introvertis](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/Flexis%20-%20Introvertis.png?raw=true)
+
+Flexis Introvertis pro pomazané hlavy.
+
+> "Nakonec vezmeš olej pomazání, vyliješ mu jej na hlavu a pomažeš ho." (Exodus, 29,7)
+
+Taky Vás milujeme.
+
+---
+
+![Trikos – Extros](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/Trikos%20-%20Extros%20p%C3%A1nsk%C3%A9.png?raw=true)
+
+![Trikos – Extros](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/Trikos%20-%20Extros%20d%C3%A1msk%C3%A9.png?raw=true)
+
+Trikos Extros pro výborný lidi. Chceš taky patřit k naší "sektě"? Tajný triko poznání pro všechny příležitosti. Aneb najdi si kamarády i po setkání!
+
+> "Takové poznání je nad mé chápání – je příliš hluboké, na to nestačím!" (Žalmy 139,6)
+
+Taky Vás milujeme.
+
+---
+
+![Trikos – Extros – Čerňák](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/Trikos%20-%20Extros%20-%20%C4%8Cer%C5%88%C3%A1k%20p%C3%A1nsk%C3%A9.png?raw=true)
+
+![Trikos – Extros – Čerňák](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/Trikos%20-%20Extros%20-%20%C4%8Cer%C5%88%C3%A1k%20d%C3%A1msk%C3%A9.png?raw=true)
+
+Trikos Extros pro výborný lidi. Chceš taky patřit k naší "sektě"? Tajný triko poznání pro všechny příležitosti. Aneb najdi si kamarády i po setkání! Čerňák protože ne všichni chceme zářit barvami.
+
+> "Na nenasytnost už mnozí zemřeli, ale kdo je střídmý, bude dlouho živ." (Sir 38, 31)
+
+Taky Vás milujeme.
+
+
+---
+
+![Trikos – Extros – Bělmák](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/Trikos%20-%20Extros%20-%20B%C4%9Blm%C3%A1k%20p%C3%A1nsk%C3%A9.png?raw=true)
+
+![Trikos – Extros – Bělmák](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/Trikos%20-%20Extros%20-%20B%C4%9Blm%C3%A1k%20d%C3%A1msk%C3%A9.png?raw=true)
+
+Trikos Bělmák pro výborný střídmější jelita. Chceš taky patřit k naší "sektě"? Tajný triko poznání pro všechny příležitosti. Aneb najdi si kamarády i po setkání! Bělmák pro příznivce jednodušší grafiky.
+
+> "Blaze chudým v duchu, neboť jim patří nebeské království." (Matouš 5, 3)
+
+Taky Vás milujeme.
+
+---
+
+![Mikos – OMAJKINA](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/Mikos%20-%20OMAJKINA%20p%C3%A1nsk%C3%A1.png?raw=true)
+
+![Mikos – OMAJKINA](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/Mikos%20-%20OMAJKINA%20d%C3%A1msk%C3%A1.png?raw=true)
+
+OMAJKINA pro zahřátí ve strastiplném počasí či u táboráku. Nebudeš litovat. Podle našeho CSM guru pana Párkose "nejoblíbenější kus v naší nabídce". Zahřeje, potěší a pro introvertní jedince je výborná i pro schování před ostatními díky výborné kapuci!
+
+> "Poskytne přístřeší a stín před denním horkem a útočiště a úkryt před bouří a deštěm. " (Izaiáš 4, 6)
+
+Taky Vás milujeme.
+
+
+---
+
+
+![Lahvinos_SVLAŽŇÁK](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/Lahvinos_SVLA%C5%BD%C5%87%C3%81K.png?raw=true)
+
+SVLAŽŇÁK sice není úplně smažák, ale právě to je ono! Svlaží i v tom největším vedru, kamarád na cesty, který tě ochrání před smrtí na poušti vyprahlé!
+
+> "Když žíznili a volali k tobě, byla jim dána voda ze strmé skály, a tak utišili žízeň z tvrdého kamene. " (Kniha moudrosti 11, 4)
+
+Taky Vás milujeme.
+
+---
+
+![Ponožky_Šmejkalky](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/Pono%C5%BEky_%C5%A0mejkalky.png?raw=true)
+
+Šmejkalky s Tebou prošoupou klidně pouť do Santiaga! Tvoje nožky budou krásně v suchu a teple, tak jak mají být. Ochráněny od povětrnostních vlivů a povzbudí ke zvednutí nohou na cestách.
+
+> "Petr však řekl: „Stříbro ani zlato nemám, ale co mám, to ti dám: Ve jménu Ježíše Krista Nazaretského vstaň a choď!" (Skutky apoštolů 3, 6)
+
+Taky Vás milujeme.
+
+---
+
+# bl. Carlo Acutis
+
+Ostatky Carla Acutise budou vystaveny denně v kostele Panny Marie na Velkém náměstí v čase od 13:00 do 19:00.
+V kostele je vystaven také plakát s detailními informacemi o Carlu.
+
+## Životopis Carla Acutise
+
+Dne 10. října 2020 byl v Assisi blahoslaven patnáctiletý Carlo Acutis. Kdo to je a jaký byl jeho život a smrt? Jak na něj vzpomíná jeho matka? Poznejte našeho současníka, který dokazuje, že svatost je možná i v době moderních technologií.
+
+### Narození a dětství
+
+Carlo Acutis se narodil v Londýně otci Andreo Acutisovi a matce Antonii Salzano dne 3. května 1991. Jeho rodiče tehdy v Londýně pracovali. Byl pokřtěn 18. května a 8. září se jeho rodina přestěhovala do Milána.
+
+Rodina nebyla praktikujícími katolíky, ale Carlo od malička projevoval zájem o Boží věci, což způsobilo, že se jeho rodiče postupně vrátili k víře. Jako dítě také rád pouštěl draky a hrál si v přírodě, oblíbil si zvířata. Hrával s přáteli fotbal a na playstationu. Školní léta Carlo prožil v Miláně na pod vedením jezuitů v lyceu Lva XIII. Za své vzory si vybral sv. Františka z Assisi, sv. Františka a Hyacintu (fatimské děti), sv. Dominika Savio, sv. Aloise Gonzagu a sv. Bernadetu Soubirousovou.
+
+### Láska k Ježíši v Eucharistii
+
+Od raného věku Carlo projevoval velkou vnímavost k „posvátnu“. První svaté přijímání přijal vzhledem ke své neobvyklé zralosti ve věcech víry a díky své mimořádné lásce k Ježíši ve svátosti Eucharistie už ve věku sedmi let. Od té doby nikdy nevynechal každodenní schůzku s Ježíšem při mši svaté a eucharistické adorace. Carlo si poznamenal, že *„když se vystavíte slunci, opálíte se. Když ale stojíte před eucharistickým Ježíšem, stanete se svatými“*.
+
+Dokázal dokonale spojit moderní život naší současnosti a hluboký eucharistický život. Carlo se snažil vždy alespoň chvilku adorovat Ježíše v Eucharistii, protože byl přesvědčen, že trávit čas s Ježíšem v Eucharistii vede ke svatosti.
+
+Pro Carla byla Eucharistie - jak sám řekl *„dálnicí do nebe“* - a také nejmocnějším způsobem, jak se rychle stát svatým. 
+Říkával, že v Nejsvětější Svátosti je Ježíš přítomen úplně stejně, jako tomu bylo před 2000 lety za dob apoštolů. Tehdy lidé za Ježíšem museli utíkat, dnes však na nás Ježíš čeká v jakémkoliv blízkém kostele:  *„Máme větší štěstí než apoštolové, kteří žili s Ježíšem před 2000 lety. Abychom se s ním setkali, stačí, když vejdeme do kostela.“* A také: *„Jeruzalém je vedle našich domovů.“*
+
+Často se zpovídal a ujišťoval: *„Stejně jako pro let balonem je třeba odejmout závaží, také duše k tomu, aby se mohla pozvednout k nebi, potřebuje odstranit ze sebe ta malá závaží, lehké hříchy.“*
+
+Díky Eucharistii Carlo hrdinsky posiloval ctnost odvahy, která mu dodávala sílu jít proti proudu a postavit se falešným modlám, které nám svět neustále nabízí. Ve škole Carlo nikdy svou víru neskrýval a zval své kamarády, aby šli společně na mši a vrátili se k Bohu. Eucharistie v něm také živila velmi silnou touhu být neustále v souladu s Pánovým hlasem a žít v jeho stálé přítomnosti. Takto Carlo dokázal přenést životní styl, který se naučil ve škole Eucharistie: být žitým evangeliem mezi školními lavicemi, ve městě, v pizzerii s přáteli či na fotbalovém zápase nebo u pc.
+
+Carlo dokázal mimořádným způsobem - zatímco žil obyčejný život jako mnozí - zasvětit každý jeho okamžik nejvyššímu cíli, ke kterému jsou všichni lidé voláni: věčné blaženosti s Bohem. Carlo, „milovník Boha“, prožil ve svém pozemském životě tuto silnou přítomnost božství a všemožně se snažil ji velkoryse předávat ostatním a stále se přimlouvá, aby každý mohl postavit Boha na první místo ve svém vlastním životě a řekl jako on: *„Ne já, ale Bůh“*, *„Ne sebeláska, ale Boží sláva“.*
+
+Carlo si často kladl otázku, čím to, že jsou takové fronty na rockové koncerty a do kin, ale žádné fronty na Ježíše v Eucharistii? Kdyby lidé věděli, o co přichází, byly by kostely přeplněné k prasknutí! Byl také hluboce oddán Panně Marii, kterou považoval za svou důvěrnici a každý den se modlil Růženec - říkal: *„Maria je jedinou ženou mého života.“*
+ 
+### Skromnost, evangelizace a zájem o informatiku
+
+Přestože byl z dobře situované rodiny, žil velmi skromně. Staral o ty, kteří zůstali bez střechy nad hlavou a o chudé - např. za své úspory koupil spací pytel žebrákovi, kterého vždycky potkával cestou na mši. Večer nosíval jídlo těm, kdo žili na ulici, někdy část své vlastní večeře.
+
+Na první místo vždy dával Boha a věděl, že se Bůh nachází především v potřebných, opuštěných, chudých.
+
+Protestoval, když mu maminka chtěla koupit dvoje boty - přece mu stačí jedny! Jindy se mu nelíbilo, že si chce maminka koupit krém za 50 Euro, když existují lidé, co umírají hlady. Když Carlo studoval na jezuitském lyceu, zajímal se o programování a stříhal videa. Byl velmi zapálený do informatiky, jeho přátelé a někteří informatici z oboru ho považovali za génia. V úžasu a nechápavě pozorovali, že rozumí tajemstvím, která znali jen ti, kdo studovali informatiku.
+
+Svou lásku k počítačové vědě naplno spojil se svou evangelizační horlivostí. Vytvořil virtuální expozice o otázkách víry. Jedna z nejvýraznějších byla o eucharistických zázracích na celém světě - trvalo mu to tři roky, hodně cestoval, aby na nashromáždil informace. A své znalosti informatiky si nenechal pro sebe, ale dělil se o ně s kamarády. I toto je láska – jeho schopnosti měly být především *„pro nebe“*.
+
+O tom svědčí i webové stránky Miracolieucaristici.org které založil.
+ 
+### Nemoc a smrt v mladém věku
+
+V říjnu 2006 mu byla diagnostikována akutní leukemie typu M3. Před smrtí obětoval své utrpení za papeže a celou církev: *„Nabízím Pánu utrpení, které budu muset snášet, za papeže a za církev a abych nemusel být v očistci, ale mohl jít přímo do nebe,“* řekl svým rodičům. Zemřel jen několik dnů poté, co mu byla stanovena diagnóza, 12. října 2006 v nemocnici San Gerardo v Monze. Bylo mu pouhých 15 let. Dva dny před tím požádal o přijetí pomazání nemocných a Eucharistii.
+
+V den pohřbu byl kostel i hřbitov plný lidí. Mnozí z těch, kdo přišli, byli bezdomovci, kterým Carlo pomohl, aniž by o tom věděla jeho rodina. Jeho nejoblíbenějším místem na světě bylo Assisi a dal najevo, že tam by si přál být pohřbený, a rodina s jeho přáním souhlasila.
+ 
+### Proces blahořečení
+
+V Carlově životě se naplno projevila Boží milost. Pověst o jeho svatosti se rychle šířila po celém světě. Už 12. října 2012 byl otevřen proces blahořečení a kanonizace. Pro svůj mladý věk spojený s moudrostí, získanou v perspektivě odchodu na věčnost, se záhy stal jedním z patronů italské mládeže. Diecézní fáze blahořečení započala 15. února 2013 a byla ukončena 24. listopadu 2016.
+
+Dne 14. listopadu 2019 se uskutečnily lékařské konzultace Kongregace pro svatořečení, kdy lékařští odborníci vyjádřili kladné stanovisko týkající se zázraku, který se připisuje přímluvě ctihodného Carla Acutise. Papež František Carla 5. července 2018 prohlásil za Ctihodného Božího služebníka a zmínil jej jako příklad pro mladé - model svatosti v digitálním věku - v apoštolské exhortaci Christus Vivit, (104-106) a dne 22. února 2020 uznal zázrak připisovaný Carlově přímluvě. Jedná se o zázračné uzdravení dítěte v Brazílii, které trpělo vážnými problémy trávícího traktu způsobenými vzácnou anatomickou anomálií slinivky.
+
+Mons. Ennio Apeciti, zodpovědný za proces svatořečení milánské arcidiecézi řekl: *„V jeho životě se událo něco velkého, před čím se sám skláním."*
+ 
+### Neporušené tělo
+
+Carlovo tělo bylo exhumováno 23. ledna 2019 a nalezeno *„v normálním stavu kadaverní transformace. Vzhledem k tomu, že od pohřbu neuplynulo mnoho let, byly části těla ještě anatomicky spojené. Tělo bylo ošetřeno za užití konzervačních a integračních technik uplatňovaných obvykle před důstojným vystavením těl blahořečených a světců k úctě věřících.”*
+
+Celistvé tělo ve všech jeho částech překvapilo jak lékaře, tak jeho matku Antonii Salzano. Tělo Carla Acutise bylo nalezeno „celistvé“, ne zcela nepoškozené. Tvář a ruce, kde byly nejvíce patrné stopy rozkladu, podstoupily citlivou rekonstrukci - Carlovu tvář pokrývá silikonová maska. Arcibiskup Sorrentino poznamenal, že konzervační zásah byl proveden s umem a láskou.
+
+P. Carlos Acácio Gonçalves Ferreira, rektor Sálu zřeknutí v rozhovoru pro EWTN řekl: *„Bylo zjištěno, že jeho tělo je celistvé a integrální se všemi svými orgány, ale bylo již mírně porušené, proto bylo nutné provést rekonstrukční práce zejména obličeje.“ Dále dodal: „Poprvé v historii uvidíme světce oblečeného v džínách, teniskách a svetru. Je to pro nás skvělá zpráva, protože můžeme svatost pociťovat nikoli jako vzdálenou věc, ale jako něco, co má každý na dosah, protože Pán je Pánem všech.“*
+
+Carlova matka, Antonia Salzano, byla při otevření hrobky svého syna k veřejné úctě velmi dojatá: *„Jsme nadšeni, že Carlova hrobka byla konečně otevřena. Věříme, že prostřednictvím Carlova těla věřící pocítí, že je Bůh zve k ještě vroucnější modlitbě. Zve nás k tomu, abychom měli více víry, naděje a lásky k Němu a k našim bratrům, stejně jako to dělal Carlo během svého celého pozemského života. Modlíme se, aby se Carlo za nás přimlouval u Boha a získal pro nás mnoho milostí.“*
+
+Dne 6. dubna 2019 byly Carlovy ostatky převezeny do Sálu Zřeknutí v Assisi (Santuario della Spogliazione), místa, kde svatý František zanechal všechno, aby následoval Pána.
+
+
+---
+
+Je důležité prožít setkání i po duchovní stránce. Mimo mši svaté můžeš také využít možnosti zpovědi, která je pro tebe připravená. 
+Kněží na tebe budou čekat:
+
+- v úterý od 20:00 do 21:30 ve stanu u univerzity vpravo od hlavního pódia 
+- ve středu, čtvrtek a sobotu od 9:30 do 22:00 u univerzity a od 14:00 do 17:30 kaple svatého Klimenta
+- v pátek od 9:30 do 18:00 u univerzity, od 14:00 do 17:30 v kapli svatého Klimenta a od 19:00 do 22:00 v kostele Nanebevzetí Panny Marie a v katedrále Svatého Ducha
+- v neděli od 8:00 do 10:00 u univerzity
+
+Mimo zpovědi, můžeš také využít nabídky celodenní adorace v kapli svatého Klimenta od středy do soboty mezi 8:00 - 21:00 a v neděli mezi 8:00 - 9:30.
+
+---
 
