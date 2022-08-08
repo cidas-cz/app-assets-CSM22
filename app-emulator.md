@@ -14,3 +14,5 @@
 4. nastav si češtinu *(optional)*
 5. spusť BlueStacks a stáhni si aplikaci pro CSM z adresy https://josefridky.cz/appCSMWin.apk
 
+Aplikaci můžeš následně spuštět z plochy, kam se ti nainstalovala nebo přímo z **BlueStack 5**.
+
