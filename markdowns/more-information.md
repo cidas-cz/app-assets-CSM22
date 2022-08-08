@@ -578,7 +578,7 @@ Stuhy “vděčnosti” pak v neděli společně odevzdáme Pánu.
 
 # GODZONE
 
-![]()
+![GodZone](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/godzone.jpeg?raw=true)
 
 Godzone je slovenský projekt, jehož hlavním cílem je evangelizace mladých lidí. Vizí tohoto projektu je přinést probuzení, povzbuzení a přinášet evangelium atraktivním, kreativním a moderním způsobem. Za předchozí roky projekt Godzone oslovil desetitisíce mladých v České i Slovenské republice a to kromě dalších aktivit také formou GODZONE TOUR, kterou pravidelně organizují.
 
