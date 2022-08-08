@@ -316,3 +316,17 @@ Křesťanský akademický klub Salaš je organizace vysokoškolských studentů 
 *Dej nám odvahu zodpovědně plnit poslání, které jsi nám svěřil, a vytrvalost k dokončení tvého díla.*
 
 *Amen*
+
+----
+
+![Plakat](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/Aplikace%20Brevi%C3%A1%C5%99.png?raw=true)
+
+---
+
+![Plakatek](https://github.com/cidas-cz/app-assets-CSM22/blob/main/images/izidoor.png?raw=true)
+
+
+62ef6940ef0df91f3b19b42e,62ef6940ef0df91f3b19b435,62ef6940ef0df91f3b19b43e
+
+
+
